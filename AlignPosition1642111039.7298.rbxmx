@@ -1,0 +1,15 @@
+<roblox xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.roblox.com/roblox.xsd" version="4">
+	<Meta name="ExplicitAutoJoints">true</Meta>
+	<External>null</External>
+	<External>nil</External>
+<Item class="AlignPosition" referent="RBX1">
+<Properties>
+<bool name="ApplyAtCenterOfMass">true</bool>
+<Ref name="Attachment0">RBX2</Ref>
+<Ref name="Attachment1">RBX3</Ref>
+<bool name="Enabled">false</bool>
+<float name="MaxForce">100000</float>
+<float name="Responsiveness">70</float>
+</Properties>
+</Item>
+</roblox>
